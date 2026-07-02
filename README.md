@@ -1,1 +1,1 @@
-# CG_OpenGL
+This repo contains coursework for my Computer Graphics course, implementing 2D shapes and figures using legacy OpenGL with GLUT/freeglut in C++. Note: freeglut binaries/config are not included — you'll need your own OpenGL/freeglut setup (e.g. via openglportable or a standard freeglut install) to build and run these locally.
